@@ -50,7 +50,7 @@ namespace MatchGame
             {
                 "emrenin kuru götü", "emrenin kuru götü",
                 "🐕", "🐕",
-                "🦈", "🦈",
+                "murat", "murat",
                 "🐘", "🐘",
                 "🦩" , "🦩",
                 "🦋","🦋",
